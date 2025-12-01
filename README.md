@@ -168,6 +168,8 @@ Jupyter Notebook / VS Code: Development environment
 # 📬 Contact
 Name: Vipin Suryavanshi
 
-LinkedIn: <a href="https://linkedin.com/in/vipin-suryavanshi">Vipin Suryavanshi </a>
+**Email:**  <a href="mailto:vipinsuryavanshi.vs@gmail.com">vipinsuryavanshi.vs@gmail.com</a>  
 
-GitHub: <a href="https://github.com/vipin-s27">Vipin-s27 </a>
+LinkedIn:  <a href="https://linkedin.com/in/vipin-suryavanshi">Vipin Suryavanshi </a>
+
+GitHub:  <a href="https://github.com/vipin-s27">Vipin-s27 </a>
