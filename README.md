@@ -1,4 +1,4 @@
-# 📊 Customer Shopping Behavior Analysis
+# 🛒 Customer Shopping Behavior Analysis
 
 This project analyzes 3,900 customer transactions to understand how users shop, what influences their purchases, and which customer groups drive the most revenue.
 It includes data preparation in Python, SQL-based analysis, and a Power BI dashboard supported by a final business report and presentation.
@@ -6,17 +6,13 @@ It includes data preparation in Python, SQL-based analysis, and a Power BI dashb
 # 🧾 Overview
 
 The goal of this project is to uncover insights from customer transaction data and provide meaningful recommendations for business growth.
+
 The workflow includes:
-
-Loading and exploring the dataset in Python
-
-Cleaning and preparing the data
-
-Conducting in-depth SQL analysis
-
-Building an interactive Power BI dashboard
-
-Creating a business-focused report using Gamma AI
+- Loading and exploring the dataset in Python
+- Cleaning and preparing the data
+- Conducting in-depth SQL analysis
+- Building an interactive Power BI dashboard
+- Creating a business-focused report using Gamma AI
 
 # 🗂️ Dataset Summary
 
@@ -26,7 +22,7 @@ Columns: 18
 
 Missing Values: 37 missing review ratings (handled during cleaning)
 
-### Key Data Features:
+### 🔍 Key Data Features:
 
 Customer details: Age, Gender, Location, Subscription Status
 
@@ -36,93 +32,68 @@ Shopping behavior: Discounts, Promo Codes, Review Rating, Shipping Type
 
 Behavioral patterns: Previous Purchases, Purchase Frequency
 
-**Dataset Used:**  <a href="https://github.com/vipin-s27/Customer-Behaviour-Analysis-Python-SQL-PowerBI/blob/main/Customer_Shopping_Behavior_Raw_Data.csv">Dataset</a>
+**📂 Dataset Used:**  <a href="https://github.com/vipin-s27/Customer-Behaviour-Analysis-Python-SQL-PowerBI/blob/main/Customer_Shopping_Behavior_Raw_Data.csv">Dataset</a>
 
-# Dashboard
+**💻 Project Code:**  <a href="https://github.com/vipin-s27/Customer-Behaviour-Analysis-Python-SQL-PowerBI/blob/main/Customer_shopping_Behaviour_Analysis.ipynb">View Notebook</a>
+
+# 📊 Dashboard
 **Dashboard File:**  <a href="https://github.com/vipin-s27/Customer-Behaviour-Analysis-Python-SQL-PowerBI/blob/main/Customer_Behaviour_Dashboard.pbix">View Dashboard File</a>
 
 <img width="1285" height="724" alt="Screenshot 2025-12-01 111031" src="https://github.com/user-attachments/assets/a595947c-6ef9-4c19-96f8-27178fe65b5b" />
 
 # 🛠️ Tools & Technologies
 
-Python: Pandas, NumPy, Matplotlib/Seaborn
-
-MySQL Server: SQL queries for deeper behavioral and segmentation insights
-
-Power BI: Dashboard creation and KPI visualizations
-
-Gamma AI: Final report and presentation
-
-Jupyter Notebook / VS Code: Development environment
+- Python: Pandas, NumPy, Matplotlib/Seaborn
+- MySQL Server: Segmentation and behavioral SQL analysis
+- Power BI: Dashboard creation and KPI visualizations
+- Gamma AI: Final report and presentation design
+- Jupyter Notebook / VS Code: Development environment
 
 # 🔧 Project Workflow
+
 ### 1. Data Loading & Exploration
-
 - Imported dataset with Pandas
-
-- Reviewed structure using df.info(), summary statistics, and value distributions
+- Reviewed structure using:
+    - df.info()
+    - summary statistics
+    - value distributions
 
 ### 2. Data Cleaning
-
 - Imputed 37 missing review ratings using median per product category
-
 - Removed duplicates and fixed inconsistent values
-
 - Standardized categorical fields
 
 ### 3. Feature Engineering
-
 - Created new columns for improved insights:
-
-- age_group (18–25, 26–35, 36–50, 50+)
-
-- purchase_frequency_days
-
-- Customer segments: New, Returning, Loyal
+    - age_group (18–25, 26–35, 36–50, 50+)
+    - purchase_frequency_days
+- Customer segments:
+    - New, Returning, Loyal
 
 ### 4. SQL Analysis (MySQL)
-
 - Performed deeper analysis including:
-
-- Gender-wise revenue
-
-- Subscriber vs non-subscriber purchases
-
-- Top products
-
-- Discount dependency analysis
-
-- Customer segment insights
-
-- Age-group revenue comparison
+    - Gender-wise revenue
+    - Subscriber vs non-subscriber purchases
+    - Top products
+    - Discount dependency analysis
+    - Customer segment insights
+    - Age-group revenue comparison
 
 ### 5. Power BI Dashboard
-
 - Developed an interactive dashboard featuring:
-
-- Key KPIs and real-time metrics
-
-- Revenue breakdowns
-
-- Product performance
-
-- Subscription insights
-
-- Filters for category, season, segments, shipping type
+    - Key KPIs and real-time metrics
+    - Revenue breakdowns
+    - Product performance
+    - Subscription insights
+    - Filters for category, season, segments, shipping type
 
 ### 6. Final Presentation (Gamma AI)
-
 - Created a structured business report summarizing:
-
-- Key findings
-
-- Customer segmentation
-
-- Discount impact
-
-- High-performing products
-
-- Actionable recommendations
+    - Key findings
+    - Customer segmentation
+    - Discount impact
+    - High-performing products
+    - Actionable recommendations
 
 # 📈 Key Insights from the Report
 ### 1. Balanced Revenue by Gender
