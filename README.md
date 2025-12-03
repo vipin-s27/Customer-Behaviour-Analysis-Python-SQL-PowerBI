@@ -36,10 +36,10 @@ Shopping behavior: Discounts, Promo Codes, Review Rating, Shipping Type
 
 Behavioral patterns: Previous Purchases, Purchase Frequency
 
-**Dataset Used:** - <a href="https://github.com/vipin-s27/Customer-Behaviour-Analysis-Python-SQL-PowerBI/blob/main/Customer_Shopping_Behavior_Raw_Data.csv">Dataset</a>
+**Dataset Used:**  <a href="https://github.com/vipin-s27/Customer-Behaviour-Analysis-Python-SQL-PowerBI/blob/main/Customer_Shopping_Behavior_Raw_Data.csv">Dataset</a>
 
 # Dashboard
-**Dashboard File** - <a href="https://github.com/vipin-s27/Customer-Behaviour-Analysis-Python-SQL-PowerBI/blob/main/Customer_Behaviour_Dashboard.pbix">View Dashboard File</a>
+**Dashboard File:**  <a href="https://github.com/vipin-s27/Customer-Behaviour-Analysis-Python-SQL-PowerBI/blob/main/Customer_Behaviour_Dashboard.pbix">View Dashboard File</a>
 
 <img width="1285" height="724" alt="Screenshot 2025-12-01 111031" src="https://github.com/user-attachments/assets/a595947c-6ef9-4c19-96f8-27178fe65b5b" />
 
@@ -166,10 +166,9 @@ Jupyter Notebook / VS Code: Development environment
 - Product Positioning: Promote top-rated and best-selling items
 
 # 📬 Contact
-Name: Vipin Suryavanshi
 
 **Email:**  <a href="mailto:vipinsuryavanshi.vs@gmail.com">vipinsuryavanshi.vs@gmail.com</a>  
 
-LinkedIn:  <a href="https://linkedin.com/in/vipin-suryavanshi">Vipin Suryavanshi </a>
+**LinkedIn:**  <a href="https://linkedin.com/in/vipin-suryavanshi">Vipin Suryavanshi </a>
 
-GitHub:  <a href="https://github.com/vipin-s27">Vipin-s27 </a>
+**GitHub:**  <a href="https://github.com/vipin-s27">Vipin-s27 </a>
